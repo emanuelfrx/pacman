@@ -15,3 +15,6 @@ Ferramentas utilizadas no desenvolvimento. Os direitos autorais são dos seus re
 ### Tela do Jogo  
 Visualização do jogo 
 ![Tela do Jogo](resumo/jogo.png)
+
+## Relatorio
+[link relatorio](https://drive.google.com/file/d/1EFZz2hdRjgKGx7TV_L0NmLMD_kQD5vyI/view?usp=sharing)
