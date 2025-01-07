@@ -10,8 +10,8 @@ Ferramentas utilizadas no desenvolvimento. Os direitos autorais são dos seus re
 ![Tela de Créditos](resumo/creditos.png)
 
 ### Tela Sobre   
-![Tela Sobre](images/sobre.png)
+![Tela Sobre](resumo/sobre.png)
 
 ### Tela do Jogo  
 Visualização do jogo 
-![Tela do Jogo](images/jogo.png)
+![Tela do Jogo](resumo/jogo.png)
