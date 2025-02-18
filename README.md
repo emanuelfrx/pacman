@@ -18,3 +18,6 @@ Visualização do jogo
 
 ## Relatorio
 [link relatorio](https://drive.google.com/file/d/1EFZz2hdRjgKGx7TV_L0NmLMD_kQD5vyI/view?usp=sharing)
+
+## link Youtube
+[link video](https://youtu.be/fh-dHhiUCFQ?si=-NlwfjacgerB5tZE).
